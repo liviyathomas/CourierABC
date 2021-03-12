@@ -1,7 +1,5 @@
-# CourierKata
+# CourierABC
 Console Application adding the cost of sending an order of parcels.
-
-This is a techinal test given to me by a company that I am trying to solve.
 
 The aim is to create a coding system to calculate the cost of sending an order of parcels.
 
